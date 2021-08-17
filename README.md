@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I started working in IT I was 30. Now im 33
 
 
-![Python](https://img.shields.io/badge/-Python-00599C?style=flat-square&logo=Python)
+![Python](https://img.shields.io/badge/-Python-00519C?style=flat-square&logo=Python)
 ![JAVA](https://img.shields.io/badge/-Java-00599C?style=flat-square&logo=Java)
 
