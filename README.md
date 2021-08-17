@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 
 
 ![Python](https://img.shields.io/badge/-Python-00599C?style=flat-square&logo=Python)
-![JAVA](https://img.shields.io/badge/-Python-00599C?style=flat-square&logo=Java)
+![JAVA](https://img.shields.io/badge/-Java-00599C?style=flat-square&logo=Java)
 
