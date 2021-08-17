@@ -12,5 +12,4 @@
 
 ![Python](https://img.shields.io/badge/-Python-00519C?style=flat-square&logo=Python)
 ![PHP](https://img.shields.io/badge/-PHP-00519C?style=flat-square&logo=PHP)
-![JAVA](https://img.shields.io/badge/-Java-00599C?style=flat-square&logo=Java)
 
